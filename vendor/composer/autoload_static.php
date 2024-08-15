@@ -11,12 +11,20 @@ class ComposerStaticInit74983d65b5079fc2091fe3bb213b8bd6
         array (
             'Cibleweb\\Fapiw\\' => 15,
         ),
+        'A' => 
+        array (
+            'App\\' => 4,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
         'Cibleweb\\Fapiw\\' => 
         array (
             0 => __DIR__ . '/../..' . '/core',
+        ),
+        'App\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 

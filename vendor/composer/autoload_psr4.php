@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Cibleweb\\Fapiw\\' => array($baseDir . '/core'),
+    'App\\' => array($baseDir . '/src'),
 );
