@@ -1,0 +1,17 @@
+{
+    "name": "cibleweb/fapiw",
+    "description": "FAPIW est un framework PHP léger pour créer des services API. Il est conçu pour être simple et extensible, avec une structure de projet claire et modulaire.",
+    "license": "CC BY-NC",
+    "autoload": {
+        "psr-4": {
+            "Cibleweb\\Fapiw\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "david esteve",
+            "email": "david.esteve66@gmail.com"
+        }
+    ],
+    "require": {}
+}
